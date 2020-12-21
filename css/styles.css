@@ -100,3 +100,12 @@ div a:hover{
   text-decoration: none;
   background-color: black;
 }
+/* Set the size of the div element that contains the map */
+#map {
+  padding: 100px;
+  margin-left: 20px;
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 500px;
+  /* The width is the width of the web page */
+}
